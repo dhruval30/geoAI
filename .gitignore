@@ -1,0 +1,5 @@
+deforest/satellite/Dataset/**
+deforest/satellite/models/**
+
+geoAI/WATER/Water Bodies Dataset/**
+geoAI/WATER/modelPerformance/resnet50/**
